@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Snoot clicker</string>
+    <string name="title">Boop the Snoot!</string>
+    <string name="author">Nicholas Simon</string>
+    <string name="total">0</string>
+</resources>
